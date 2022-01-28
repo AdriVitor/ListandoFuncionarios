@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\C\Lista_Func\ListandoFuncionarios\obj\Debug\net6.0\ListandoFuncionarios.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C\Lista_Func\ListandoFuncionarios\obj\Debug\net6.0\ListandoFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C\Lista_Func\ListandoFuncionarios\obj\Debug\net6.0\ListandoFuncionarios.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C\Lista_Func\ListandoFuncionarios\obj\Debug\net6.0\ListandoFuncionarios.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C\Lista_Func\ListandoFuncionarios\obj\Debug\net6.0\ListandoFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C\Lista_Func\ListandoFuncionarios\bin\Debug\net6.0\ListandoFuncionarios.exe
+C:\Users\ASUS\Desktop\C\Lista_Func\ListandoFuncionarios\bin\Debug\net6.0\ListandoFuncionarios.deps.json
+C:\Users\ASUS\Desktop\C\Lista_Func\ListandoFuncionarios\bin\Debug\net6.0\ListandoFuncionarios.runtimeconfig.json
+C:\Users\ASUS\Desktop\C\Lista_Func\ListandoFuncionarios\bin\Debug\net6.0\ListandoFuncionarios.dll
+C:\Users\ASUS\Desktop\C\Lista_Func\ListandoFuncionarios\bin\Debug\net6.0\ref\ListandoFuncionarios.dll
+C:\Users\ASUS\Desktop\C\Lista_Func\ListandoFuncionarios\bin\Debug\net6.0\ListandoFuncionarios.pdb
+C:\Users\ASUS\Desktop\C\Lista_Func\ListandoFuncionarios\obj\Debug\net6.0\ListandoFuncionarios.dll
+C:\Users\ASUS\Desktop\C\Lista_Func\ListandoFuncionarios\obj\Debug\net6.0\ref\ListandoFuncionarios.dll
+C:\Users\ASUS\Desktop\C\Lista_Func\ListandoFuncionarios\obj\Debug\net6.0\ListandoFuncionarios.pdb
+C:\Users\ASUS\Desktop\C\Lista_Func\ListandoFuncionarios\obj\Debug\net6.0\ListandoFuncionarios.genruntimeconfig.cache
